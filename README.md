@@ -1,4 +1,4 @@
-# 📄 DDocuments Mentor AI App
+# 📄 Documents Mentor AI App
 
 Welcome to the **Document Question Answering App**! This application utilizes [Streamlit](https://streamlit.io/), [donut-base-finetuned-docvqa](https://huggingface.co/naver-clova-ix/donut-base-finetuned-docvqa), [Hugging Face Transformers](https://huggingface.co/transformers/), and [pdf2image](https://github.com/Belval/pdf2image) to answer questions about your documents. 🚀
 
